@@ -1,0 +1,5 @@
+[user]
+	name = pvinogradov
+	email = pavel.vinogradoff@gmail.com
+[alias]
+	history = log --graph
